@@ -1,0 +1,4 @@
+﻿  Human.cpp
+C:\Users\Миша\source\repos\Project1\Project1\Human.cpp(14,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Миша\source\repos\Project1\Project1\Human.cpp(33,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Миша\source\repos\Project1\x64\Debug\Project1.exe
